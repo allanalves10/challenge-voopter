@@ -1,4 +1,5 @@
 export const defaultTheme = {
-  primary: 'blue',
-  secondary: '#fff',
+  primary: '#1e5799',
+  secondary: '#00aad6',
+  white: '#fff',
 }
